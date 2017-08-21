@@ -89,7 +89,8 @@ Aso, further in the horizon, the cars tend to be smaller than closer to the car 
 9. The aggregated heatmap is averaged over the last `5` values.
 10. The heat map is then thresholded to `3`.
 
-After conducting trials on the test images and the test video, the sliding widow search was done for the following parameters:
+After conducting trials on the test images and the test video, the sliding widow search was done for the following parameters:  
+
 | Scale  | Y Start  | Y End  |
 | ------:|---------:| ------:|
 | 1      | 400      | 480    |
